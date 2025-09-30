@@ -1,7 +1,0 @@
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-warnings
-sklearn
-joblib
