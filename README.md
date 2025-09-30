@@ -1,2 +1,4 @@
-# Students-Marks-Predictor
-This a practice ML project, data taken from Kaggle where the upcoming exam's marks is predicted by four independent features.
+# Students Marks Predictor
+
+Check out the live app here: https://students-marks-predictor-rfjt2cbwrbehap3bsappyiv.streamlit.app/
+
